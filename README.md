@@ -22,6 +22,5 @@ The project consists of the following steps:
 8. [Annex - Deployment](https://github.com/abbasmalekpour/News-Classifier/tree/master/08.Annex-Deployment)
 9. [Report](https://github.com/abbasmalekpour/News-Classifier/tree/master/09.Report)
 10. [App Creation v2](https://github.com/abbasmalekpour/News-Classifier/tree/master/10.-App-Creation-v2) (*created a new version of the application after submitting the project.)
->>>>>>> Stashed changes
 
 
