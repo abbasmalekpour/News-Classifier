@@ -12,7 +12,7 @@ This is achieved with a **supervised machine learning classification** model tha
 
 The project consists of the following steps:
 
-1. [Dataset Creation](https://github.com/abbasmalekpour/Latest-News-Classifier/tree/master/0.%20Latest%20News%20Classifier/01.%20Dataset%20Creation)
+1. [Dataset Creation](https://github.com/abbasmalekpour/News-Classifier/tree/master/01.Dataset-Creation)
 2. [Exploratory Data Analysis](https://github.com/abbasmalekpour/Latest-News-Classifier/tree/master/0.%20Latest%20News%20Classifier/02.%20Exploratory%20Data%20Analysis)
 3. [Feature Engineering](https://github.com/abbasmalekpour/Latest-News-Classifier/tree/master/0.%20Latest%20News%20Classifier/03.%20Feature%20Engineering)
 4. [Model Training](https://github.com/abbasmalekpour/Latest-News-Classifier/tree/master/0.%20Latest%20News%20Classifier/04.%20Model%20Training)
