@@ -3,7 +3,7 @@
 
 <br/>
 <p align="center">
-  <img src="https://github.com/abbasmalekpour/News-Classifier/blob/master/09.%20Report/machine-banner.png" height="82" width="300">
+  <img src="https://github.com/abbasmalekpour/News-Classifier/blob/master/09.%20Report/machine-banner.png" height="200" width="300">
 </p>
 
 This project is intended to be a walkthrough on the development of a machine learning project **from end to end**. It covers the creation a real-time web application that gathers data from several newspapers and shows a summary of the different topics that are being treated in the news articles.
